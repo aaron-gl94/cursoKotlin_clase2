@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi edad Canina</string>
+    <string name="how_old_are_you" translatable="false">¿Cuántos años tienes?</string>
+    <string name="tu_edad" translatable="false">Tu edad</string>
+    <string name="calcular" translatable="false">Calcular</string>
+    <string name="errorAge" translatable="false">Debe indicar una edad válida.</string>
+    <string name="insertAge" translatable="false">Debe indicar una edad válida.</string>
+    <string name="resultText" translatable="false">Tu edad canina es de: %d años</string>
+</resources>
